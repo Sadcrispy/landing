@@ -1,0 +1,23 @@
+.footer {
+  margin: 0 auto;
+  color: white;
+  padding: 24px;
+  background-color: #7B898E;
+  border-radius: 4px;
+  box-shadow: 0 0 4px #0C1527;
+}
+
+
+.footer li {
+  display: inline;
+}
+
+.footer img {
+  width: 800px;
+  border-radius: 4px;
+}
+
+.footer a {
+  font-size: xx-large;
+  transition: .5s;
+}

@@ -1,0 +1,35 @@
+.banner {
+  background-image: url("../../images/moon-2017-yamaha-mt-10-sp-wallpaper-8373c6b45fd476f2496a4003e7797e2a.jpg");
+  color: white;
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+/* .banner a {
+  padding: 16px;
+  background-color: white;
+  font-weight: 900;
+  font-size: 32px;
+  border-radius: 8px;
+  box-shadow: 0 0 4px #0C1527;
+  border: 4px solid #551A8B;
+} */
+.banner a {
+  display: block;
+  font-size: 64px;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  letter-spacing: 4px;
+  transition: all .5s;
+}
+
+.banner a:hover {
+  letter-spacing: 128px;
+}
+
+.banner p {
+  font-size: xx-large;
+}

@@ -1,0 +1,18 @@
+.card {
+  padding: 24px;
+  background-color: #7B898E;
+  flex: 1;
+  margin: 0 16px;
+  border-radius: 4px;
+  box-shadow: 0 0 4px #0C1527;
+}
+
+.card a {
+  text-decoration: none;
+  transition: .5s;
+}
+
+.card a:hover {
+  font-size: 40px;
+  transition: .5s;
+}
